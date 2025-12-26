@@ -1,0 +1,12 @@
+# No binaries tracked - only released via GitHub Releases
+*.exe
+*.zip
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.log
