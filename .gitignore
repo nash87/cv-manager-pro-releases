@@ -1,0 +1,14 @@
+# User data - never commit
+cv-data/
+*.log
+launcher-config.json
+
+# Updates folder
+updates/
+
+# Only include release files
+!cv-manager-launcher.exe
+!cv-manager-pro.exe
+!version.json
+!launcher-version.json
+!README.md
