@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.2",
   "release_date": "2025-12-30",
-  "download_url": "https://github.com/nash87/cv-manager-pro-releases/releases/download/v1.0.1/cv-manager-launcher.exe",
-  "changelog_url": "https://github.com/nash87/cv-manager-pro-releases/releases/tag/v1.0.1",
+  "download_url": "https://github.com/nash87/cv-manager-pro-releases/releases/download/v1.0.2/cv-manager-launcher.exe",
+  "changelog_url": "https://github.com/nash87/cv-manager-pro-releases/releases/tag/v1.0.2",
   "minimum_version": "1.0.0",
-  "release_notes": "🔧 Launcher v1.0.1 - Debug & Error Handling\n\n✅ Erweiterte Logging-Funktionalität (launcher.log)\n✅ Verbesserte Fehlerbehandlung\n✅ Längerer HTTP-Timeout (30s statt 10s)\n✅ Detaillierte Debug-Ausgaben\n✅ Bessere Netzwerk-Fehlerdiagnose",
-  "sha256": "e825021fa18616fad2652f5c39aa3c3595db432cdd4b6a49a70fe9a2366f73fb",
+  "release_notes": "🚀 Launcher v1.0.2 - Timeout Fix\n\n✅ 15-Sekunden Timeout beim Update-Check\n✅ Launcher startet auch bei Netzwerkproblemen\n✅ Offline-Modus wenn Update-Check fehlschlägt\n✅ Erweiterte Fehlerbehandlung\n✅ Logging-Datei (launcher.log)",
+  "sha256": "384dc69d0c83a860a37ea4274246f7be8fd53c75e13c1b15f46ea5ad6f85a113",
   "size_mb": 10,
   "is_required": false
 }
